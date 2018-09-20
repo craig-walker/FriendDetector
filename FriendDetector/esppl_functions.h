@@ -241,4 +241,3 @@ void esppl_sniffing_start() {
 void esppl_sniffing_stop() {
   esppl_sniffing_enabled = false;
 }
-
