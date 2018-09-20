@@ -49,7 +49,7 @@ boolean ExisitingUsers[LIST_SIZE];
  *Board 3 Pins: 12, 13, 15, 0, 16, 2, 5, 4.
  */
 
-////////////////NAME?????//////////DESCRIPTION?????????????/////////////////////
+////////////////FRIENDLIST///////////////////////////////
 uint8_t friendmac[LIST_SIZE][ESPPL_MAC_LEN] = {
   {0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX} //Person1
  ,{0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX} //Person2
