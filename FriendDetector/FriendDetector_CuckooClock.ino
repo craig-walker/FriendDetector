@@ -17,7 +17,7 @@ int counter[LIST_SIZE];
 Servo myservo[LIST_SIZE];
 boolean ExisitingUsers[LIST_SIZE];
 
-//////////////MacAddresses_Catelog/////////////////////
+//////////////MacAddresses_Catelogue/////////////////////
 /*{0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX}Person1
  *{0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX}Person2
  *{0xXX, 0xXX, 0xXX, 0xXX, 0xXX, 0xXX}Person3
