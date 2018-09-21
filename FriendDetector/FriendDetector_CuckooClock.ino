@@ -8,7 +8,7 @@
 #define USER 0
 #define SERVO_PIN 1
 #define TIME_BUFFER 1200 ///////////////////////Must return "false" XXXX times to make arm drop | used for quality control due to the 'handshake' nature of Mac Addresses
-#define SERVO_STARTUP_POS 140 //////////////////The position the servo will 
+#define SERVO_STARTUP_POS 140 //////////////////The position the servo will start at
 ////////////////////////////////////////////////
 
 /////////////////Global Variables////////////////
